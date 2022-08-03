@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Shopify Theme and Storefront Optimizations and Customizations
 - 🌱 I’m currently learning JavaScript, React
 - 👯 I’m looking to collaborate on Shopify and E-Commerce Web Development Projects
